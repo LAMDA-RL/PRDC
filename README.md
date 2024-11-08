@@ -1,5 +1,9 @@
 # Policy Regularization with Dataset Constraint for Offline Reinforcement Learning
 
+[2024/11/08] Update: PRDC has been integrated into [d3rlpy](https://github.com/takuseno/d3rlpy)!
+
+---
+
 Code for ICML'23 paper "Policy Regularization with Dataset Constraint for Offline Reinforcement Learning", [arXiv link](https://arxiv.org/abs/2306.06569).
 
 If you find this repository useful for your research, please cite:
